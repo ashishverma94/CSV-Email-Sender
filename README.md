@@ -3,3 +3,6 @@
 
 ![Screenshot 2024-05-20 155921](https://github.com/ashishverma94/CSV-Email-Sender/assets/82448727/0a50695a-3e37-459c-aa5b-d1137dab59a6)
 
+### .env Variables 
+
+![Screenshot 2024-05-20 161054](https://github.com/ashishverma94/CSV-Email-Sender/assets/82448727/f17970db-b803-47c8-b325-4241b398599b)
